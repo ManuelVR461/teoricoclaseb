@@ -1,0 +1,92 @@
+{
+    "manuel": {
+        "3": {
+            "correctas": 3,
+            "incorrectas": 1
+        },
+        "0": {
+            "correctas": 5,
+            "incorrectas": 1
+        },
+        "2": {
+            "correctas": 11,
+            "incorrectas": 1
+        },
+        "4": {
+            "correctas": 3,
+            "incorrectas": 1
+        },
+        "1": {
+            "correctas": 4,
+            "incorrectas": 0
+        },
+        "5": {
+            "correctas": 5,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 2: Normas de circulaci\u00f3n": {
+            "correctas": 6,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 3: Factores de riesgo al conducir": {
+            "correctas": 1,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 0: Introducci\u00f3n": {
+            "correctas": 0,
+            "incorrectas": 1
+        },
+        "Cap\u00edtulo 2: Se\u00f1ales y reglas del tr\u00e1nsito": {
+            "correctas": 4,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 5: Aspectos mec\u00e1nicos del veh\u00edculo": {
+            "correctas": 1,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 0: Introducci\u00f3n a la conducci\u00f3n": {
+            "correctas": 4,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 5: Condiciones t\u00e9cnicas del veh\u00edculo": {
+            "correctas": 1,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 1: El conductor y su entorno": {
+            "correctas": 1,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 1: Seguridad vial": {
+            "correctas": 2,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 4: La persona en el tr\u00e1nsito": {
+            "correctas": 3,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 3: Conducci\u00f3n en condiciones especiales": {
+            "correctas": 2,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 3: Conducci\u00f3n segura": {
+            "correctas": 3,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 5: Mec\u00e1nica b\u00e1sica y mantenimiento": {
+            "correctas": 3,
+            "incorrectas": 0
+        },
+        "": {
+            "correctas": 1,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 2: La persona en el tr\u00e1nsito": {
+            "correctas": 1,
+            "incorrectas": 0
+        },
+        "Cap\u00edtulo 3: Condiciones del conductor": {
+            "correctas": 1,
+            "incorrectas": 0
+        }
+    }
+}
